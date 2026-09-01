@@ -8,7 +8,7 @@ Developed by **Seddik Belbikkey**.
 
 ## 🌟 Overview
 
-**صيدليات الحراسة (ZaioTV Pharmacy Rotations)** is an automated, enterprise-grade WordPress plugin engineered to manage and publish **On-Duty Pharmacy Schedules (صيدليات الحراسة)** for local municipalities and news portals in Morocco (such as **ZaioTV.Net**).
+**ZaioTV Pharmacy Rotations (صيدليات الحراسة)** is an automated, enterprise-grade WordPress plugin engineered to manage and publish **On-Duty Pharmacy Schedules (صيدليات الحراسة)** for local municipalities and news portals in Morocco (such as **ZaioTV.Net**).
 
 ### 💡 How On-Duty Pharmacy Rotations Work
 In Moroccan cities like **Zaio**, pharmacies regularly operate during fixed standard business hours. However, **after regular hours, on weekends, and during public holidays**, only the designated **On-Duty Pharmacy (صيدلية الحراسة)** stays open—operating **24 hours a day (24h/24)** for its assigned rotation week.
